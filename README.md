@@ -12,8 +12,8 @@ This script adds a watermark image to each page of an existing PDF file using TC
 
 First, ensure you have the required libraries. You can download them from the following links:
 
-- [TCPDF]: https://github.com/tecnickcom/tcpdf
-- [FPDI]: https://github.com/Setasign/FPDI
+- [TCPDF](https://github.com/tecnickcom/tcpdf)
+- [FPDI](https://github.com/Setasign/FPDI)
 
 Install the libraries by including them in your project or using a package manager like Composer.
 
